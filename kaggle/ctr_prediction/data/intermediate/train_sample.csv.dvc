@@ -1,0 +1,3 @@
+outs:
+- md5: b5711a70a53f4fdf40796c1a1d91fcbf
+  path: train_sample.csv
