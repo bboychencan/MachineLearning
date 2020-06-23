@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://my-bucket/dvc-storage
+    url = s3://canchen-ds-sandbox
