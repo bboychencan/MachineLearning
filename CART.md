@@ -11,3 +11,10 @@ CART假设决策树是二叉树，内部节点表示的是对数据根据某个�
 ## 提升树
 
 提升树是以分类树或回归树为基分类器。基本idea是，第一个回归树预测效果可能一般，但是第二个回归树把第一个预测错的残差作为输入。
+
+
+
+{"endpoint_counters":[{"metric":"c.br_cube_card.risk.user.counter","ns":"collect.us01-br-v.api.shepherd.safety.sec.didi.com","start":1616656760,"step":1000,"end":1616660360,"tags":"host=shepherd-api-br-sf-adab7-0.docker.us01,business=<all>,product=<all>,result=<all>,sync=<all>"}]}
+
+
+{"endpointCounters":[{"ns":"collect.us01-v.api.shepherd.safety.sec.didi.com","metric":"c.mx_cube_card_v2.count.counter","start":1617180790,"end":1617184390,"step":10,"tags":"host=sec-shepherd-api-sf-adab7-0.docker.us01,business=<all>,product=<all>,result=<all>,sync=<all>"}]}
