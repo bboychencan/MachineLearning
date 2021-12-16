@@ -7,3 +7,7 @@
 1. 记忆memorization即从历史数据中发现item或者特征之间的相关性
 2. 泛化generalization即相关性的传递，发现在历史数据中很少或者没有出现的新的特征组合
 
+wide部分就是LR
+deep部分是DNN
+
+
