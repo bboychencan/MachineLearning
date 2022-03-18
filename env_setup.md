@@ -10,8 +10,10 @@
 6. 安装git，brew等必需工具（需要先安装好vpn）
 7. 安装zsh https://ohmyz.sh/  开启autosuggestion等
 8. 配置vimrc https://github.com/amix/vimrc
-9. 安装maven， 拷贝配置settings，配置阿里云maven仓库
+9. 安装maven， 拷贝配置settings，配置阿里云maven仓库. 3.8.1以后不支持http repo，可以试一下downgrade，或者加一个mirror 
+https://gist.github.com/vegaasen/1d545aafeda867fcb48ae3f6cd8fd7c7
 10. 安装jdk
 11. 在Develop文件夹下新建dailyreport.md 记录每天的工作内容，方便写周报，也方便回顾，同时也可以给以后的人参阅
 12. 申请各种权限，基本包括机器学习平台，数据工厂，wiki，git等
 13. 安装打印驱动，配置打印机
+14. 安装conda，jupyter，配置conda环境
