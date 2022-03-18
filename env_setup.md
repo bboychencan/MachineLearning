@@ -17,3 +17,5 @@ https://gist.github.com/vegaasen/1d545aafeda867fcb48ae3f6cd8fd7c7
 12. 申请各种权限，基本包括机器学习平台，数据工厂，wiki，git等
 13. 安装打印驱动，配置打印机
 14. 安装conda，jupyter，配置conda环境
+15. 申请数据地图权限
+16. 申请数据工厂权限
